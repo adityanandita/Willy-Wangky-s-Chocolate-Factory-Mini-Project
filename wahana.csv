@@ -1,0 +1,7 @@
+ID_Wahana,Nama_Wahana,Harga_Tiket,Batasan_Umur,Batasan_Tinggi
+EL1200,Roller Coaster,100,dewasa,>= 170 cm
+FI1201,Jelajah Cokelat,120,semua umur,tanpa batasan
+MA1201,Dunia Kalkulus,50,semua umur,tanpa batasan
+IF1202,Dunia Komputer,75,anak-anak,tanpa batasan
+KI1002,Kimia Cokelat,75,dewasa,>= 170 cm
+KU1000,Boomboom Car,20,semua umur,tanpa batasan
